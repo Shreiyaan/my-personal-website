@@ -1,14 +1,14 @@
 # my-personal-website
 A personal website about my life, family, education, and achievements with a Marvel theme and a few interactive features. Alongside the usual introduction, you will find a recipe to become like me, the method to win an argument against me, and many other cool things like that. 
 
-This entire website is made built using HTML, CSS and popovers for buttons and popup messages. I used W3Schools to learn the HTML and CSS used in this project.
-I used CSS to control how the website looks, the background images, the colors, font style, fonts, borders, margins, etc...
-I wrote the CSS inside a style element and used inline for some individual elements. 
-I learnt how to give an HTML element an ID an then style it using matching CSS selector.
-I used HTML to organize the content of my website, to include line breaks, to add bold and italic texts, to describe myself and to bring a smile on your face. 
+I used HTML to organise the content and add headings, buttons, line breaks, and text formatting. I used CSS to control the background images, colours, fonts, borders, spacing, and positions of the boxes. Most of the CSS is inside a <style> element, with inline styles on some individual elements. I wrote and edited the website in VS Code and hosted it using GitHub Pages.
 
-By building this project, I learned how to style a page, use background images, position boxes and connect buttons to popovers. I learnt how to give an HTML element an ID an then style it using matching CSS selector. I learned the difference between padding and margin and also to check small details like quotation marks and opening and closing tags. 
+The interactive messages use HTML popovers. Each popup has an id, and the button that opens it has a matching popovertarget. In the Marvel quiz, both incorrect answers open the same popup, while the correct answer opens a separate one. These interactions work without JavaScript.
 
-Overall, this project helped me turn basic HTML and CSS into something that reflects my personality
+Building this project taught me how to style elements using CSS selectors, use background images, and position boxes around a page. I learned the difference between padding and margin and how to connect buttons to popovers. I also learned to check filenames, quotation marks, and opening and closing tags when something does not work.
+
+Overall, this project helped me turn basic HTML and CSS into something that reflects my personality.
+
+My main learning source has been w3schools
 
 Learning source - https://www.w3schools.com/
