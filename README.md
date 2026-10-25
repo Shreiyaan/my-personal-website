@@ -1,6 +1,6 @@
 # my-personal-website
-A website about a young curious man from Mumbai. This is made purely using HTML. 
-This is a website about my life, family, education and achievements. Alongside the usual introduction, you will find a recipe to become like me, the method to win an argument with me, and many other cool things like that. 
+A personal website about my life, family, education, and achievements with a Marvel theme and a few interactive features. Alongside the usual introduction, you will find a recipe to become like me, the method to win an argument against me, and many other cool things like that. 
+
 This entire website is made built using HTML, CSS and popovers for buttons and popup messages. I used W3Schools to learn the HTML and CSS used in this project.
 I used CSS to control how the website looks, the background images, the colors, font style, fonts, borders, margins, etc...
 I wrote the CSS inside a style element and used inline for some individual elements. 
